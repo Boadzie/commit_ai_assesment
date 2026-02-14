@@ -151,4 +151,4 @@ Pipeline:
 
 ## License
 
-This project was created as a take-home assignment for [Commit](https://www.commit-ai.io/).
+This project was created as a take-home assignment for [Commit AI](https://www.commit-ai.io/).
